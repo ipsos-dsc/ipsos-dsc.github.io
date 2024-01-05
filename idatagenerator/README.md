@@ -21,7 +21,7 @@ iDataGenerator - an automation tool to help SW to generate staging / testing dat
 
  * **You can refer the video below :**
 
-https://github.com/AYadav01DSC/assets/assets/154878702/c68fe402-361a-41d8-a5c2-a615b6ddc215
+https://github.com/AYadav01DSC/assets/assets/154878702/c68fe402-361a-41d8-a5c2-a615b6ddc215?width=200&height=200
 
 
 * **Refer this if video is not enough**
