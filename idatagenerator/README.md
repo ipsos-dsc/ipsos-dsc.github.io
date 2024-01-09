@@ -212,8 +212,7 @@ you have to run it once in gui mode, to ensure it is working fine if you are not
 
 ### Authors & feedback
 
-* [Ajit Yadav](https://github.com/mr-internetix)
-* [Piyush patre](https://github.com/piyushpatro)
-
+* [iDataGenerator](https://github.com/AYadav01DSC)
+* [iQtabs](https://github.com/PPatreDSC)
   
 _for any queries and feedback : ajit.yadav2@ipsos.com , piyush.patre@ipsos.com_
