@@ -20,7 +20,8 @@ iDataGenerator - an automation tool to help SW to generate staging / testing dat
 ## How to use ?
 
  * **You can refer the video below :**
- [video width="320" height="240" src="https://github.com/AYadav01DSC/assets/assets/154878702/c68fe402-361a-41d8-a5c2-a615b6ddc215.mp4"]
+[Click Here For Tutorial Video](https://github.com/AYadav01DSC/assets/assets/154878702/c68fe402-361a-41d8-a5c2-a615b6ddc215.mp4)
+
 
 * **Refer this if video is not enough**
 
@@ -172,6 +173,7 @@ __[ idatagenerator = "["Walter White"]"]__ **This specifies that in TextBox "Wal
     text[1..4000];
     
 ```
+__For Question with summation logic "100%" or sum should be some number example "40"  pass [idatagenerator="100%", or iDataGenerator = "40%"] This will punch values equals to 100 and 40 respectively in textboxes__
 
 
 * __Slider Question__
@@ -208,9 +210,9 @@ you have to run it once in gui mode, to ensure it is working fine if you are not
 
 
 
-
-
 ### Authors & feedback
+
+__If any feedback kindly use this feedback file__ : [Click Here For Feedback](https://ipsosgroup-my.sharepoint.com/:x:/g/personal/ajit_yadav01_ipsos_com/EQSHCOKZccdPiOOrh_rYnFgBo5QG1ky8aD1vUgFq1Zn-Yg?e=kmQRYY)
 
 * [iDataGenerator](https://github.com/AYadav01DSC)
 * [iQtabs](https://github.com/PPatreDSC)
