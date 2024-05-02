@@ -4,6 +4,6 @@
 
 
 - Please refer this documentation for iqtabs
-[Link for iQTabs Documentation](https://publuu.com/flip-book/455692/1026934)
+[Link for iQTabs Documentation](https://publuu.com/flip-book/489487/1099189)
 
 
