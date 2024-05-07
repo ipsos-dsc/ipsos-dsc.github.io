@@ -1,9 +1,7 @@
-# iqtabs
+# iQTabs
 
-- welcome to iqtabs documentation 
+- welcome to iQTabs documentation 
 
 
-- Please refer this documentation for iqtabs
+- Please refer this documentation for iQTabs
 [Link for iQTabs Documentation](https://publuu.com/flip-book/489487/1099189)
-
-
